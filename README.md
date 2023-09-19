@@ -1,2 +1,1 @@
-# PrepCoursehenry
-preparacion
+Este prouyecto es una prueba de programacion
